@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b05e94b-b0fd-44be-9952-1f00dce0a0da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/awesomeProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/F1/S1-Sever.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/F1/S1-client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/S8.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/S9.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/S17.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S11.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S18.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S19.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S20.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S21.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S22.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S23.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S24.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S25.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S26.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/main/main1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory/model/student.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map+切片/S10.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map+切片/S12.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map+切片/S13.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/message1/S3-Sever.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/message1/S3-client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/message1/messages.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/message1/messages.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/S27.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/office/S28.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Order.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/S1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/断言/S5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/断言/S6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/断言/S7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程+协程+管道/S14.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程+协程+管道/S15.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程+协程+管道/S16.go" beforeDir="false" />
-    </list>
+    <list default="true" id="7b05e94b-b0fd-44be-9952-1f00dce0a0da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
