@@ -80,7 +80,7 @@
   </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1PJN6StY2wTT6hwrFP3HvxUqsqw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,7 +93,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -128,7 +128,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build awesomeProject1">
+  <component name="RunManager" selected="Go Build.go build 1.go">
+    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/1.go" />
+      <package value="awesomeProject1" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build S2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject1" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -143,15 +152,6 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/S26.go" />
-      <package value="awesomeProject1" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build awesomeProject1 (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject1" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/S23.go" />
       <package value="awesomeProject1" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -176,18 +176,18 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject1 (1)" />
-      <item itemvalue="Go Build.go build awesomeProject1 (3)" />
       <item itemvalue="Go Build.go build awesomeProject1/office" />
       <item itemvalue="Go Build.go build S2.go" />
       <item itemvalue="Go Build.go build awesomeProject1" />
+      <item itemvalue="Go Build.go build 1.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 1.go" />
         <item itemvalue="Go Build.go build awesomeProject1" />
         <item itemvalue="Go Build.go build S2.go" />
         <item itemvalue="Go Build.go build awesomeProject1 (1)" />
         <item itemvalue="Go Build.go build awesomeProject1/office" />
-        <item itemvalue="Go Build.go build awesomeProject1 (3)" />
       </list>
     </recent_temporary>
   </component>
