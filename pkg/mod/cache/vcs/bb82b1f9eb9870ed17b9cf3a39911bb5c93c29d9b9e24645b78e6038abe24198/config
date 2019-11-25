@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://gopkg.in/ns1/ns1-go.v2
+	fetch = +refs/heads/*:refs/remotes/origin/*

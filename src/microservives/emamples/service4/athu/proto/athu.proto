@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package go.micro.srv.athu;
+
+service Athu {
+    rpc MakeToken (Request) returns (Response);
+    rpc DelToken (Request) returns (Response);
+    rpc VerificationToken (Request) returns (Response);
+}
+
+message Request {
+    string username = 1;
+    string token = 2;
+}
+
+message Response {
+    bool success = 1;
+    string token = 2;
+    string error = 3;
+}

@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package go.micro.srv.order;
+
+service ORDER {
+    rpc Create(Request) returns (Response){}
+}
+
+//创建订单时
+message Request {
+    string user_id = 1;
+    string consignmentid = 2;
+    string name = 3;
+    string price = 4;
+}
+
+message Response {
+    string Consignmentid = 1;
+    string order = 2;
+}
+
+

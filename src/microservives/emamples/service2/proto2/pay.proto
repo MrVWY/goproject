@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package go.micro.srv.pay;
+
+service PAY {
+    rpc Orderpay(Request) returns (Response){}
+}
+
+message Request {
+    string commoditynumber = 1;
+    string user_id = 2;
+    string price = 3;
+}
+
+message Response {
+    string status = 1;
+    string payurl = 2;
+    string timeout_express = 3;
+    string out_trade_no = 4;
+}

@@ -1,0 +1,12 @@
+f653079f349af3ade03523b9aa2104829972637b		branch 'master' of https://gopkg.in/ns1/ns1-go.v2
+c1ae6b3bf62a61a490c6e7b9b3cb2b04a9bb741f		branch 'add-answer-id' of https://gopkg.in/ns1/ns1-go.v2
+b741b59398b868e49129cb84f11390cc5142bd92		branch 'bugfix/unmarshalling-answer-json' of https://gopkg.in/ns1/ns1-go.v2
+a3a092cf2b450e9d6bc396fd6b5ee8ac943726d9		branch 'develop' of https://gopkg.in/ns1/ns1-go.v2
+1e4570cba8864b9e36a4516f4c6eddb73266348e		branch 'feature/timestamps' of https://gopkg.in/ns1/ns1-go.v2
+ed33a964110429aff5e1f92c842b5608322c894e		branch 'make-meta-terraform-friendly' of https://gopkg.in/ns1/ns1-go.v2
+cd2ea7c254e94d2124e74a10d61172fff38b3b44		branch 'monitoringjob/fail_set' of https://gopkg.in/ns1/ns1-go.v2
+ab66b7dc1cb7930d0191e3be2ad4c717f5ac0543		branch 'remove-filters-omitempty' of https://gopkg.in/ns1/ns1-go.v2
+be6a4ca1f03a6af0ddbdf3020d10a1290a887df3		branch 'sort-slices' of https://gopkg.in/ns1/ns1-go.v2
+aea53e7d1858c762210e6a2757d427b6f43ac935		branch 'v1' of https://gopkg.in/ns1/ns1-go.v2
+f653079f349af3ade03523b9aa2104829972637b		branch 'v2' of https://gopkg.in/ns1/ns1-go.v2
+01a152619a430eba6fec470fbf903d5f9505a2ed		tag 'v1' of https://gopkg.in/ns1/ns1-go.v2

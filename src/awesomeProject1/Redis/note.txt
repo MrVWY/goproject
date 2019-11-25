@@ -1,0 +1,36 @@
+Rdis
+1、默认有16个数据库，初始数据库为0号
+2、select 1 ,选择1号数据库
+   dbsize
+   set key1 H
+   flushdb
+   flushall
+3、String  Hash  List Set  zset(有序集合)
+4、String (key/value)
+    -set/get/del
+    -setex mess 10 H 设置超时时间
+      get mess
+    -mset 一次性设置多个key/value
+    -mget 一次性获得多个key/value
+5、Hash
+    --是一个键值对集合,string类型的field和value的映射表
+    --hset user job "golang code"
+      hset user age 30
+      hset user name "Z"
+      hmset
+    --hget user job
+      hget user age
+      hmget user
+    --hexists key field 查看哈希表key中,给定的field是否存在
+6、List
+    -可以添加一个元素到列表的头部或者尾部
+    -链表,有序,元素值可以重复
+    -lpush city B A N M
+    -lrange city 0 -1
+    -lpop/rpop
+7、Set(集合)
+    -无序,元素的值不可以重复
+    -sadd emails  A S
+    -smember  emails
+    -sismember
+    -srem  key value

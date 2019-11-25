@@ -1,0 +1,15 @@
+24f4d5c6044980cf02d1f2ea64b6360f0578f715		branch 'empty' of https://github.com/jmespath/go-jmespath
+1e3f99e121900d54ca42f85cd5085b35095d6830		branch 'flatten-slice' of https://github.com/jmespath/go-jmespath
+b120806d9b3cf3455dfa2438a1871013dc1c2cfe		branch 'functions-scalar' of https://github.com/jmespath/go-jmespath
+85867ce04a66cf84b9963f9811ed8ef5045e1648		branch 'initial-review' of https://github.com/jmespath/go-jmespath
+ae12203f7c03f1fab81cf169f20b4b03a0f308c8		branch 'interp-reflect' of https://github.com/jmespath/go-jmespath
+abd9b96519a49efb8f24f4a38a500a5f45f5d4f2		branch 'jasdel-multiValueSlice' of https://github.com/jmespath/go-jmespath
+a8f65a0fc570bdc325d39269ccb98815837f1d99		branch 'jep-9' of https://github.com/jmespath/go-jmespath
+5a51c8efb404c7e002b65baa4b591f738e9a3190		branch 'lexer-perf' of https://github.com/jmespath/go-jmespath
+c2b33e8439af944379acbdd9c3a5fe0bc44bd8a5		branch 'master' of https://github.com/jmespath/go-jmespath
+c926bd9aac0b051bb45164a00897cae4fcdd4cec		branch 'pretty-ast' of https://github.com/jmespath/go-jmespath
+b948404c55171126946d0e9e68032370a2dba528		tag '0.1.0' of https://github.com/jmespath/go-jmespath
+bad766ab5d6a1dd8f139b0ec6a24bbcad6548c17		tag '0.1.1' of https://github.com/jmespath/go-jmespath
+9dc4f1e879821bd04ba5e25083f3f4a1289ca214		tag '0.2.0' of https://github.com/jmespath/go-jmespath
+5b6765f5084aac47defeba3c6db8eb05166672c0		tag '0.2.1' of https://github.com/jmespath/go-jmespath
+50cf257f4583f4565a45e26abec76b1e42dab750		tag '0.2.2' of https://github.com/jmespath/go-jmespath

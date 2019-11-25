@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+package go.micro.srv.o;
+
+service O {
+    rpc Create(Request) returns (Response){}
+    rpc GetAll(Request) returns (Response){}
+}
+
+//创建订单时
+message Request {
+    string user_id = 1;
+    string consignmentid = 2;
+    string name = 3;
+    string price = 4;
+    string token = 5;
+}
+
+message Response {
+    string Consignmentid = 1;
+    Order order = 2;
+    repeated Order orders = 3;
+    string err = 4;
+    string status = 5;
+    string payurl = 6;
+}
+
+//一堆订单
+//message Orders{
+//    Order orders = 1; //一堆订单有哪些用户
+//}
+
+//单个订单
+message Order {
+    string user_id = 1;
+    string name = 2;
+    string price = 3;
+    int64 createtime = 4;
+    string status = 5;
+}

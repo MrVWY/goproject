@@ -1,0 +1,14 @@
+11ef334c88e03fec3d86cecbaff6cfe90668042e		branch 'bazel' of https://github.com/kevinburke/ssh_config
+b64c0219b657a2c958a4531cb1a64a1d82e39286		branch 'config-no-newline' of https://github.com/kevinburke/ssh_config
+14846fb743b68bface9321da06f8d83a6bfa7924		branch 'devnev-drain-lexer-tokens' of https://github.com/kevinburke/ssh_config
+2e50c441276c45da12db9a8e3df6f7f1d2f820f1		branch 'fix-tests' of https://github.com/kevinburke/ssh_config
+54fabb9a3764ca25f792b23dd5bae5474afa1d6b		branch 'include' of https://github.com/kevinburke/ssh_config
+01f96b0aa0cdcaa93f9495f89bbc6cb5a992ce6e		branch 'master' of https://github.com/kevinburke/ssh_config
+ab5641d3b9966b5365ee8805c9d91b6018bda90e		branch 'travis' of https://github.com/kevinburke/ssh_config
+82cf3f92643814c75904bc4b01dd5721afa7bb89		branch 'update-travis' of https://github.com/kevinburke/ssh_config
+6c3af74fa5b59d325e597106f6ef94b9b413685c		branch 'wayneashleyberry-update-tests' of https://github.com/kevinburke/ssh_config
+f9a49af9b1ca6c34ea6b580e1c058eeaba84cab7		tag '0.2' of https://github.com/kevinburke/ssh_config
+f76eb7d35c9d05b02e9d7a44ed71efd0188676c8		tag '0.3' of https://github.com/kevinburke/ssh_config
+3877194c940b1c756e7b6f143cf2dac8aab8fd4e		tag '0.4' of https://github.com/kevinburke/ssh_config
+50d8d1ebe35795e1ef4d88ff27202ff3190a782a		tag '0.5' of https://github.com/kevinburke/ssh_config
+6f0c25984bdf0ca036f97c001bfa5d5b707d0411		tag '1.0' of https://github.com/kevinburke/ssh_config

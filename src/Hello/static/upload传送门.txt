@@ -1,0 +1,5 @@
+C:\Users\36527\AppData\Local\Programs\Python\Python37-32
+
+
+
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps

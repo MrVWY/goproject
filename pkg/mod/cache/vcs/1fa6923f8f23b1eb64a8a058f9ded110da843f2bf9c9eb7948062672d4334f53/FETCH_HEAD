@@ -1,0 +1,3 @@
+c6a06e7d1bff05ee792199c465d6a3a7f2ddcd66		branch 'ci' of https://github.com/uber-go/ratelimit
+cd1f0abeddc3fe992a7be8d533332897936efbc0		branch 'master' of https://github.com/uber-go/ratelimit
+e58cbbd103819d99986f083cfafedaa76daba111		tag 'v0.1.0' of https://github.com/uber-go/ratelimit

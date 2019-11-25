@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package go.micro.srv.p;
+
+service P {
+
+}
+
+message Request {
+
+}
+
+message Response {
+
+}

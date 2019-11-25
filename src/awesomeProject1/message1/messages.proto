@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package message1;
+
+message OrderRequest {
+    string orderId = 1;
+    int64 timeStamp = 2;
+}
+
+message OrderInfo {
+    string OrderId = 1;
+    string OrderName = 2;
+    string OrderStaus = 3;
+}
+
+service OrderService{
+    rpc  GetOrderInfo(OrderRequest)
+    returns (OrderInfo);
+}
