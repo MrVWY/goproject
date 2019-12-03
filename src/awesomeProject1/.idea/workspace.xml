@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b05e94b-b0fd-44be-9952-1f00dce0a0da" name="Default Changelist" comment="" />
+    <list default="true" id="7b05e94b-b0fd-44be-9952-1f00dce0a0da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../bin/jwt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin/jwt.exe" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" path="E:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -47,7 +49,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webProject" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,12 +84,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 1.go">
+  <component name="RunManager" selected="Go Build.go build S27.go">
     <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject1" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/1.go" />
+      <package value="awesomeProject1" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build S27.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject1" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/S27.go" />
       <package value="awesomeProject1" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -119,29 +130,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject1/office" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject1" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/office/S28.go" />
-      <package value="awesomeProject1/office" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build awesomeProject1 (1)" />
-      <item itemvalue="Go Build.go build awesomeProject1/office" />
       <item itemvalue="Go Build.go build S2.go" />
       <item itemvalue="Go Build.go build awesomeProject1" />
       <item itemvalue="Go Build.go build 1.go" />
+      <item itemvalue="Go Build.go build S27.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build S27.go" />
         <item itemvalue="Go Build.go build 1.go" />
         <item itemvalue="Go Build.go build awesomeProject1" />
         <item itemvalue="Go Build.go build S2.go" />
         <item itemvalue="Go Build.go build awesomeProject1 (1)" />
-        <item itemvalue="Go Build.go build awesomeProject1/office" />
       </list>
     </recent_temporary>
   </component>

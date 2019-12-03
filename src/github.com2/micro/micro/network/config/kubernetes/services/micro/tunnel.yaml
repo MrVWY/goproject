@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: default
+  name: micro-tunnel
+  labels:
+    micro: service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      name: micro-tunnel
+      micro: service
+  template:
+    metadata:
+      labels:
+        name: micro-tunnel
+        micro: service
+    spec:
+      containers:
+      - name: tunnel
+        env:
+        - name: MICRO_BROKER
+          value: "nats"
+        - name: MICRO_BROKER_ADDRESS
+          value: "nats-cluster"
+        - name: MICRO_REGISTRY
+          value: "etcd"
+        - name: MICRO_REGISTRY_ADDRESS
+          value: "etcd-cluster-client"
+        args:
+        - tunnel
+        image: micro/micro
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8083
+          name: tunnel-port

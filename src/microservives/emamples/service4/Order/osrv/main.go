@@ -7,11 +7,11 @@ import (
 	"github.com/micro/go-micro/registry"
 	"github.com/micro/go-micro/registry/etcd"
 	"log"
+	"microservives/emamples/service4/Order/osrv/model/db"
+	O "microservives/emamples/service4/Order/osrv/proto"
+	"microservives/emamples/service4/conf"
 	"strconv"
 	"time"
-	O "microservives/emamples/service4/Order/osrv/proto"
-	"microservives/emamples/service4/Order/osrv/model/db"
-	"microservives/emamples/service4/conf"
 )
 
 type R struct {}

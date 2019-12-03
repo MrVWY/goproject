@@ -82,7 +82,7 @@ func (s *S) SO(ctx context.Context,request *api.Request,response *api.Response) 
 func main() {
 	service := micro.NewService(
 		micro.Name("go.micro.api.CreateOrder1"),
-		micro.Address(":9000"),
+
 	)
 	service.Init()
 	service.Server().Handle(

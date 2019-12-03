@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5515447-f218-4a75-a5ee-8b605155d848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bin/jwt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin/jwt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emamples/mianrouter/view/view.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/mianrouter/view/view.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emamples/service/api/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service/api/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emamples/service4/Order/osrv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service4/Order/osrv/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emamples/service4/athu/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service4/athu/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" path="E:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -21,7 +26,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesomeProject1" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="E:/BitSphere-SDN-IPAM-Plugin" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -40,19 +46,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go (2)">
+    <configuration name="go build V2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="microservives" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/emamples/service4/athu/main.go" />
+      <filePath value="$PROJECT_DIR$/emamples/service/V2.go" />
       <package value="microservives" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microservives" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/emamples/service4/Order/osrv/main.go" />
+      <package value="microservives" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microservives" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/emamples/service/api/main.go" />
+      <package value="microservives" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build microservives/emamples/service" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microservives" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/emamples/service/main.go" />
+      <package value="microservives/emamples/service" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build microservives/emamples/service4/Order/api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microservives" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/emamples/service4/Order/api/main.go" />
+      <package value="microservives/emamples/service4/Order/api" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build V2.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build microservives/emamples/service4/Order/api" />
+        <item itemvalue="Go Build.go build microservives/emamples/service" />
       </list>
     </recent_temporary>
   </component>
@@ -64,7 +110,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
