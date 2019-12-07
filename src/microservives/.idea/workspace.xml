@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5515447-f218-4a75-a5ee-8b605155d848" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../bin/jwt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../bin/jwt.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emamples/mianrouter/view/view.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/mianrouter/view/view.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emamples/service/api/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service/api/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emamples/service4/Order/osrv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service4/Order/osrv/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emamples/service4/athu/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/emamples/service4/athu/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

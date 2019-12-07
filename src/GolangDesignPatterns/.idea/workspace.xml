@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203d4271-c76f-40fe-99c4-25fbe233eb06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/awesomeProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/F1/S1-Sever.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/F1/S1-client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/Interface/S8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/Interface/S9.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/Redis/S17.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/Redis/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S11.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S18.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S19.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S20.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S21.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S22.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S23.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S24.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S25.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S26.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S27.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/S4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/factory/main/main1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/factory/model/student.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/map+切片/S10.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/map+切片/S12.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/map+切片/S13.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/message1/S3-Sever.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/message1/S3-client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/message1/messages.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/message1/messages.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/office/S2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/office/S27.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/office/S28.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/office/S3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/test/Order.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/test/S1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/test/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/断言/S5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/断言/S6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/断言/S7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/进程+协程+管道/S14.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/进程+协程+管道/S15.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject1/进程+协程+管道/S16.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservives/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservives/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1UeOdSH3piyMlHWIziLFpwcXbZV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="E:/G/GolangDesignPatterns" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build builder.go">
+    <configuration name="go build Singleton.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangDesignPatterns" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Creational Patterns/Singleton.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build builder.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangDesignPatterns" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Creational Patterns/builder.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build builder.go" />
+        <item itemvalue="Go Build.go build Singleton.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
